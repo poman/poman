@@ -20,6 +20,12 @@ I help teams integrate AI into delivery workflows to shorten feedback loops, imp
 - Drive quality strategy with risk-based coverage and defect prevention
 - Scale automation using Playwright, Cypress, and WebdriverIO
 
+## Pet Projects
+
+- 🧩 **Chrome Extension: OroCommerce Forms Filler** - [Chrome Web Store](https://chromewebstore.google.com/detail/orocommerce-forms-filler/bmegcalhaedjopcbbbmjecpimcajbbci?authuser=0&hl=en-GB)
+- 🧩 **Chrome Extension: Lalafo DX Assist** - [Chrome Web Store](https://chromewebstore.google.com/detail/lalafo-dx-assist/fgbnhegcmlmmhcjgnpdcnnejbadebhnf?authuser=0&hl=en-GB) | [GitHub](https://github.com/poman/lalafo-dx-assist)
+- 📱 **Mobile App: OroCommerce B2B Mobile App** - [Google Play](https://play.google.com/store/apps/details?id=com.rkukla.orocommerceapp) | [GitHub](https://github.com/poman/orocommerce-react-native-app)
+
 ## Top Technologies
 
 **Core Engineering**
@@ -46,11 +52,17 @@ I help teams integrate AI into delivery workflows to shorten feedback loops, imp
 - Agent-assisted QA workflows, review, and test generation
 - Practical AI adoption patterns for engineering teams
 
-## Pet Projects
+## GitHub Stats
 
-- 🧩 **Chrome Extension: OroCommerce Forms Filler** - [Chrome Web Store](https://chromewebstore.google.com/detail/orocommerce-forms-filler/bmegcalhaedjopcbbbmjecpimcajbbci?authuser=0&hl=en-GB)
-- 🧩 **Chrome Extension: Lalafo DX Assist** - [Chrome Web Store](https://chromewebstore.google.com/detail/lalafo-dx-assist/fgbnhegcmlmmhcjgnpdcnnejbadebhnf?authuser=0&hl=en-GB) | [GitHub](https://github.com/poman/lalafo-dx-assist)
-- 📱 **Mobile App: OroCommerce B2B Mobile App** - [Google Play](https://play.google.com/store/apps/details?id=com.rkukla.orocommerceapp) | [GitHub](https://github.com/poman/orocommerce-react-native-app)
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=poman&theme=github_dark" alt="GitHub stats: stars, commits, and PR activity"/>
+  <img src="https://streak-stats.demolab.com?user=poman&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=poman&theme=github_dark" alt="Top programming languages by commits"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=poman&theme=github_dark" alt="Repositories per language"/>
+</p>
 
 ## Profile Views Counter
 
