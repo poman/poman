@@ -9,16 +9,16 @@ I help teams integrate AI into delivery workflows to shorten feedback loops, imp
 ## Reach Me Out
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/romankukla/">
+  <a href="https://www.linkedin.com/in/romankukla/" style="text-decoration: none; display: inline-block;">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://t.me/rkukla">
+  <a href="https://t.me/rkukla" style="text-decoration: none; display: inline-block;">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="mailto:kukla.roman@gmail.com">
+  <a href="mailto:kukla.roman@gmail.com" style="text-decoration: none; display: inline-block;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://github.com/poman">
+  <a href="https://github.com/poman" style="text-decoration: none; display: inline-block;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
@@ -45,7 +45,7 @@ I help teams integrate AI into delivery workflows to shorten feedback loops, imp
 **AI Tooling**
 
 <p align="left">
-  <a href="https://openai.com/" target="_blank" rel="noreferrer">
+  <a href="https://openai.com/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
     <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
   </a>
   <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
