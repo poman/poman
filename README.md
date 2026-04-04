@@ -1,4 +1,4 @@
-# Hi, I'm Roman Kukla
+# Hi, I'm Roman 👋
 
 AI Adoption QA/DEV focused on practical AI tools, workflows, and quality engineering.
 
@@ -33,7 +33,7 @@ I help teams integrate AI into delivery workflows to shorten feedback loops, imp
 
 ## Pet Projects
 
-- 🧩 **Chrome Extension: OroCommerce Forms Filler** - [Chrome Web Store](https://chromewebstore.google.com/detail/orocommerce-forms-filler/bmegcalhaedjopcbbbmjecpimcajbbci?authuser=0&hl=en-GB)
+- 🧩 **Chrome Extension: OroCommerce DevTools** - [Chrome Web Store](https://chromewebstore.google.com/detail/orocommerce-devtools/bmegcalhaedjopcbbbmjecpimcajbbci?authuser=0&hl=en-GB)
 - 🧩 **Chrome Extension: Lalafo DX Assist** - [Chrome Web Store](https://chromewebstore.google.com/detail/lalafo-dx-assist/fgbnhegcmlmmhcjgnpdcnnejbadebhnf?authuser=0&hl=en-GB) | [GitHub](https://github.com/poman/lalafo-dx-assist)
 - 📱 **Mobile App: OroCommerce B2B Mobile App** - [Google Play](https://play.google.com/store/apps/details?id=com.rkukla.orocommerceapp) | [GitHub](https://github.com/poman/orocommerce-react-native-app)
 
